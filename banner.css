@@ -1,0 +1,20 @@
+.banner {
+	background-image: 
+		linear-gradient(-225deg, rgba(0,0,0,0.8%) 0%, rgba(0,0,0,0.8%) 50%), url(../../images/sports.jpg);
+	padding: 150px 30px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner .title {
+
+	font-family: 'Zen Dots', cursive;
+	text-align: center;
+	font-size: 30px;
+	border-color: red;
+	text-align: center;
+}
+
+.banner h2 {
+	color: rgb(0, 53, 122);
+}

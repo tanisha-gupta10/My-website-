@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&family=Zen+Dots&display=swap');
+
+@import url("components/container.css");
+@import url("components/logo.css");
+@import url("components/btn-pink.css");
+@import url("components/banner.css");
+@import url("components/card1.css");
+@import url("components/card2.css");
+@import url("components/maincard.css");
+
+
+body {
+
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	font-family: 'Montserrat Alternates', sans-serif;
+}
